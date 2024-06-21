@@ -7,6 +7,13 @@ The Windows Desktop App allows users to perform the following actions:
 
 View Submissions: Navigate through submitted form entries.
 Create New Submission: Enter details such as Name, Email, Phone Number, GitHub repo link, and manage a stopwatch for time tracking.
+
+The Windows Desktop App consists of three forms:
+
+MyForm: Initial form presenting options to "View Submissions" and "Create New Submission".
+MyForm1: Form for viewing submitted entries, with navigation buttons for previous and next entries.
+MyForm2: Form for creating new submissions, including fields for Name, Email, Phone Number, GitHub repo link, and stopwatch control.
+
 Features
 Keyboard shortcuts for seamless navigation.
 Stopwatch functionality that persists across pauses.
