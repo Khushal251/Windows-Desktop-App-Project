@@ -14,17 +14,12 @@ Ability to submit new form entries to the backend server.
 Setup Instructions
 Clone the repository:
 
-bash
 Copy code
 git clone https://github.com/Khushal251/Windows-Desktop-App-Project.git
 Open the project in Visual Studio (ensure it's Visual Studio, not Visual Studio Code).
 
 Build and run the solution to launch the desktop application.
 
-Additional Features (Optional)
-Deletion of submitted forms.
-Editing existing form submissions.
-Enhanced styling and UI improvements.
 Backend Server (GoogleFormBackend)
 Description
 The backend server provides RESTful API endpoints for managing form submissions:
@@ -38,12 +33,10 @@ Uses a JSON file (db.json) as a simple database for storing submissions.
 Setup Instructions
 Clone the repository:
 
-bash
 Copy code
 git clone https://github.com/Khushal251/Windows-Desktop-App-Project.git
 Navigate to the GoogleFormBackend directory:
 
-bash
 Copy code
 cd GoogleFormBackend
 Install dependencies:
@@ -57,7 +50,6 @@ Copy code
 npm run build
 Start the server:
 
-sql
 Copy code
 npm start
 The server should now be running locally on port 3000.
