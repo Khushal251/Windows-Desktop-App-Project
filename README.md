@@ -1,6 +1,12 @@
 # Windows-Desktop-App-And-Backend-Server_Project
 This project implements a Windows Desktop Application similar to Google Forms, coupled with a backend server for data storage and retrieval.
 
+Pitchure of Interface
+![Screenshot (4496)](https://github.com/Khushal251/Windows-Desktop-App-Project/assets/114289491/47bf6db6-d1d4-4616-8b36-d42e4aa450a9)
+![Screenshot (4497)](https://github.com/Khushal251/Windows-Desktop-App-Project/assets/114289491/43424d0a-c778-455c-be29-3408fa1b5566)
+![Screenshot (4500)](https://github.com/Khushal251/Windows-Desktop-App-Project/assets/114289491/766481d5-74ea-463e-9306-23548deb3562)
+
+
 Windows Desktop App (GoogleForm)
 Description
 The Windows Desktop App allows users to perform the following actions:
