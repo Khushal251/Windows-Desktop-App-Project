@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  MyForm.cpp
+  MyForm1.cpp
+  MyForm2.cpp
+  Generating Code...
+  Main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GoogleForm.vcxproj -> D:\Visual Studio Programs\GoogleForm\x64\Debug\GoogleForm.exe

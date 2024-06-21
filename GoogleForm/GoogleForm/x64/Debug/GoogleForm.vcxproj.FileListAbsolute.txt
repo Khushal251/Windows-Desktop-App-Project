@@ -1,0 +1,5 @@
+D:\Visual Studio Programs\GoogleForm\GoogleForm\x64\Debug\GoogleForm.vcxproj.AssemblyReference.cache
+D:\Visual Studio Programs\GoogleForm\GoogleForm\x64\Debug\GoogleForm.MyForm.resources
+D:\Visual Studio Programs\GoogleForm\GoogleForm\x64\Debug\GoogleForm.MyForm1.resources
+D:\Visual Studio Programs\GoogleForm\GoogleForm\x64\Debug\GoogleForm.MyForm2.resources
+D:\Visual Studio Programs\GoogleForm\GoogleForm\x64\Debug\GoogleForm.vcxproj.GenerateResource.cache
